@@ -1,2 +1,1 @@
-# Thesis---UTN-Final-Proyect
-# Thesis---UTN-Final-Proyect
+This project consists of the development of a system for gastronomic businesses in the city of Casilda. The idea is to create a gastronomic network whose main functionality is the management of orders made through a web application. The system has menus of the participating gastronomic businesses where customers can place orders according to the products offered by each one. Each participating gastronomic business will have an account to log in to the system and check all the orders that arrive, prepare them, and send them to the customers. Customers will also have to log in to place an order and specify the delivery address or if the order will be picked up at the business.
